@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: Full Send Racing
+image: /img/bike-backdrop.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: The Mullets of Crit Racing
 mainpitch:
   title: Why Kaldi
   description: >
