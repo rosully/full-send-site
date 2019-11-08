@@ -1,9 +1,8 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: Sponsors
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: This is where we say something about our sponsors I think?
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -99,3 +98,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
