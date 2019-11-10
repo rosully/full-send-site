@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
 title: Full Send Racing
-image: /img/bike-backdrop.jpg
-heading: Great coffee with a conscience
+image: /img/louis-2019-jz-wheeler.jpg
+heading: Pour one out for the homies
 subheading: The Mullets of Crit Racing
 mainpitch:
   title: Why Kaldi
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
