@@ -91,7 +91,7 @@ export const IndexPageTemplate = ({
                 <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <object width="560" height="315" data="https://www.youtube.com/embed/Yxq7S63NFR8">
+                    <object className="video" data="https://www.youtube.com/embed/Yxq7S63NFR8">
                     </object>
                   </div>
                 </div>
