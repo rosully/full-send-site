@@ -1,13 +1,13 @@
 ---
 templateKey: index-page
-title: //FULL SEND RACING//
+title: // FULL SEND RACING //
 image: /img/louis-2019-jz-wheeler.jpg
 heading: '  '
-subheading: The Mullets of Crit Racing
+subheading: '{{ Subheading }}'
 mainpitch:
-  title: 'Denver Colorado''s premier Crit Squad. '
+  title: Denver's Premier Crit Squad
   description: 'Very Alright Since 2018. '
-description: '  '
+description: '           '
 intro:
   blurbs: []
   heading: What we offer
