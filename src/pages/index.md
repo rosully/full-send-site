@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: // FULL SEND RACING //
-image: /img/louis-2019-jz-wheeler.jpg
+image: /img/fsr.jpg
 heading: '  '
 subheading: '{{ Subheading }}'
 mainpitch:
