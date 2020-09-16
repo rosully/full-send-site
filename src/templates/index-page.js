@@ -91,7 +91,7 @@ export const IndexPageTemplate = ({
                 <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <iframe width="560" height="315" max-height="100%" src="https://www.youtube.com/embed/Yxq7S63NFR8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Yxq7S63NFR8" allowfullscreen>
                     </iframe>
                   </div>
                 </div>
