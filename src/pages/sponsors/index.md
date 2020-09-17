@@ -23,8 +23,8 @@ intro:
     - image: /img/screen-shot-2020-09-16-at-10.09.22-pm.png
       text: >-
         A bodl for your watr. What more could you ask for? For you Space Jam
-        fans - consider this is MJ's special stuff. Bottles on bottles on
-        bottles. Masters riders take note: Sippy cups coming soon.
+        fans - consider this MJ's special stuff. Bottles on bottles on bottles.
+        Masters riders take note: Sippy cups coming soon.
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
